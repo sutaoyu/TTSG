@@ -1,0 +1,15 @@
+transformers
+pyrouge==0.1.3
+tensorboard==2.6.0
+sentencepiece==0.1.96
+nltk==3.6.5
+pytorch_lightning==1.3.5
+datasets
+spacy==2.3.3
+nltk==3.6.1
+tqdm==4.49.0
+rouge-score
+accelerate
+scikit-learn
+matplotlib
+ipykernel
