@@ -1,8 +1,8 @@
 # TTSG
 
-<div align="center">
+<!-- <div align="center">
     <img src="./files/TTSG_framework.png" width="70%" height="auto" />
-</div>
+</div> -->
 
 ## Env
 
