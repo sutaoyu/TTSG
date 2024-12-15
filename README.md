@@ -1,5 +1,7 @@
 # TTSG
 
+- The code of paper **News Topic Sentence Generation Based on Two-stage Summarization** [IJCNN](https://ieeexplore.ieee.org/document/10651550) in Proceedings of IJCNN 2024.
+
 <div align="center">
     <img src="./files/TTSG_framework.png" width="70%" height="auto" />
 </div>
@@ -54,3 +56,35 @@ Here, we use [Centrum](https://github.com/ratishsp/centrum) method to generate t
 ## Acknowledgement
 
 We appreciate [BRIO](https://github.com/yixinL7/BRIO), [Centrum](https://github.com/ratishsp/centrum) and many other related works for their open-source contributions.
+
+
+# Citation
+If you use this model or code, please cite it as follows:
+
+```
+@inproceedings{DBLP:conf/ijcnn/LinZSZL24,
+  author       = {Jingwen Lin and
+                  Shunan Zang and
+                  Taoyu Su and
+                  Chuang Zhang and
+                  Tingwen Liu},
+  title        = {News Topic Sentence Generation Based on Two-stage Summarization},
+  booktitle    = {International Joint Conference on Neural Networks, {IJCNN} 2024, Yokohama,
+                  Japan, June 30 - July 5, 2024},
+  pages        = {1--7},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/IJCNN60899.2024.10651550},
+  doi          = {10.1109/IJCNN60899.2024.10651550},
+  timestamp    = {Thu, 19 Sep 2024 10:41:53 +0200},
+  biburl       = {https://dblp.org/rec/conf/ijcnn/LinZSZL24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+
+
+
+
+
+
